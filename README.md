@@ -7,6 +7,9 @@ A pure-Python autonomous multi-agent orchestration framework built from scratch.
 Agentic Swarm is a ground-up implementation of a multi-agent system where specialized agents communicate through an asynchronous message bus to plan, execute, and review work. Users interact with the swarm through an interactive REPL — type a request, and the agents autonomously decompose it into subtasks, generate code, and review the results.
 
 
+### Initial Workflow
+
+Building The_Hive by being The_Hive: Six specialized LLM agents (Controller, Coach, Coder, Reviewer, Delivery, Overlord) working in parallel to autonomously build a multi-agent orchestration system — from scratch, no frameworks. I architected the hierarchy, defined the blocking pairs, and governed the output. The tool being built mirrors the process used to build it.
 
 https://github.com/user-attachments/assets/4fcda432-9d2b-4fa0-9466-86074b2c9ef8
 
