@@ -6,6 +6,12 @@ A pure-Python autonomous multi-agent orchestration framework built from scratch.
 
 Agentic Swarm is a ground-up implementation of a multi-agent system where specialized agents communicate through an asynchronous message bus to plan, execute, and review work. Users interact with the swarm through an interactive REPL — type a request, and the agents autonomously decompose it into subtasks, generate code, and review the results.
 
+
+
+https://github.com/user-attachments/assets/4fcda432-9d2b-4fa0-9466-86074b2c9ef8
+
+
+
 ### Key Principles
 
 - **Zero framework dependencies** — no LangChain, AutoGen, CrewAI, or OpenAI Swarm
