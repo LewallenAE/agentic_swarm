@@ -1,4 +1,4 @@
-# Agentic Swarm "The Hive"
+# Agentic Swarm "The Hive" (In-Progress)
 
 A pure-Python autonomous multi-agent orchestration framework built from scratch. No external AI/agent frameworks — just `asyncio`, structured messaging, and cooperative agents that collaborate to fulfill complex requests.
 
